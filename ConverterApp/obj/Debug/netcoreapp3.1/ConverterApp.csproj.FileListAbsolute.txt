@@ -1,0 +1,13 @@
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csprojAssemblyReference.cache
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfo.cs
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.genruntimeconfig.cache
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.exe
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.dll
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\Converter.dll
+C:\Users\ozank\Desktop\encoding1001\ConverterApp\obj\Debug\netcoreapp3.1\Converter.pdb
